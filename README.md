@@ -18,14 +18,14 @@
 ---
 ---
 
-- 🌱 I’m currently learning Swift and SwiftUI/UIKit frameworks
-- 💞️ I’m looking to collaborate on iOS mobile app projects
-- 🎯 I’m currently working on a mobile app that I would like to publish on the App Store
+- 🌱 I’m currently learning the Swift language and the use of the SwiftUI frameworks
+- 💞️ I’m looking to collaborate on iOS and VisionOS projects
+- 🎯 My goal is to publish applications on the Apple Store
 - 👀 I’m interested in
     - 👨🏼‍🎨 Design
     - 📲 Mobile apps
     - 💻 Apple
-    - 🔗 Swift, UIKit and SwiftUI
+    - 🔗 Swift, SwiftUI and VisionOS
     - 📺 Movie & Series
     - 🎧 Music
     - 📚 Reading
@@ -38,7 +38,6 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-006cbc?style=for-the-badge&logo=Swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/UIKit-2986cc?style=for-the-badge&logo=swift&logoColor=white" alt="UIKit"/>
   <img src="https://img.shields.io/badge/CoreData-0b5394?style=for-the-badge&logo=swift&logoColor=white" alt="CoreData"/>
   <img src="https://img.shields.io/badge/firebase-fecc2f?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
 </p>
