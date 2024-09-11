@@ -18,9 +18,9 @@
 ---
 ---
 
-- 🌱 I’m currently learning the Swift language and the use of the SwiftUI frameworks
+- 🌱 I’m currently learning the Swift language and its SwiftUI framework
 - 💞️ I’m looking to collaborate on iOS and VisionOS projects
-- 🎯 My goal is to publish applications on the Apple Store
+- 🎯 My goal is to publish applications on the Apple Store and become an iOS developer
 - 👀 I’m interested in
     - 👨🏼‍🎨 Design
     - 📲 Mobile apps
